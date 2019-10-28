@@ -5,4 +5,4 @@ I parametri in input sono la profondità dell'albero e il numero di entità pres
 
 Il file di base da non eliminare è 'file.zip' che è un file da 300MB compresso in 300KB.
 
-In ouput avremo il file 'bomb.zip' che avrà il peso di pochi KB ma che una volta unzippato completamente avrà TB di dati al suo interno.
+In ouput avremo il file 'bomb.zip' che avrà il peso di pochi KB ma che una volta unzippato completamente avrà TBs di dati al suo interno.
