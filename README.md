@@ -1,8 +1,7 @@
 # ZipBombCreator
-Creatore di ZipBomb basato su una compressione ad albero.
+Zip Bomb creator using a tree compression.
 ---------------------------------------------------------
-I parametri in input sono la profondità dell'albero e il numero di entità presenti in ogni livello dell'albero.
 
-Il file di base da non eliminare è 'file.zip' che è un file da 300MB compresso in 300KB.
-
-In ouput avremo il file 'bomb.zip' che avrà il peso di pochi KB ma che una volta unzippato completamente avrà TBs di dati al suo interno.
+Parameters are the height of the tree and the number of entity for each level.
+The base file (do not delete!) is 'file.zip', it's a 300MB file compressed in 300KB
+The output will be 'bomb.zip' that will have a dimension of a small amount of KB but when recursively decompressed all the file will have a dimension of thousands of TeraBytes.
